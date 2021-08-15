@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"streetsidesoftware.code-spell-checker",
+			"matklad.rust-analyzer"
+		]
+	},
+	"settings": {
+		"editor.formatOnSave": true,
+		"cSpell.words": [
+			"matklad"
+		]
+	}
+}
