@@ -13,7 +13,10 @@
 	"settings": {
 		"editor.formatOnSave": true,
 		"cSpell.words": [
-			"matklad"
+			"cgmath",
+			"matklad",
+			"wgpu",
+			"winit"
 		]
 	}
 }
