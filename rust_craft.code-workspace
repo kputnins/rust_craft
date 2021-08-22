@@ -13,9 +13,12 @@
 	"settings": {
 		"editor.formatOnSave": true,
 		"cSpell.words": [
+			"RASTERIZATION",
 			"Vulkan",
+			"Wgsl",
 			"cgmath",
 			"matklad",
+			"multisample",
 			"wgpu",
 			"winit"
 		]
