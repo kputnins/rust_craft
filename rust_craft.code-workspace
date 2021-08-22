@@ -13,6 +13,7 @@
 	"settings": {
 		"editor.formatOnSave": true,
 		"cSpell.words": [
+			"Vulkan",
 			"cgmath",
 			"matklad",
 			"wgpu",
