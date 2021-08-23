@@ -14,14 +14,19 @@
 		"editor.formatOnSave": true,
 		"cSpell.words": [
 			"RASTERIZATION",
+			"Srgb",
+			"Unorm",
 			"Vulkan",
 			"Wgsl",
 			"Zeroable",
 			"bytemuck",
 			"cgmath",
 			"matklad",
+			"mipmap",
 			"multisample",
+			"multisampled",
 			"repr",
+			"rgba",
 			"wgpu",
 			"winit"
 		]
