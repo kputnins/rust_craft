@@ -16,9 +16,12 @@
 			"RASTERIZATION",
 			"Vulkan",
 			"Wgsl",
+			"Zeroable",
+			"bytemuck",
 			"cgmath",
 			"matklad",
 			"multisample",
+			"repr",
 			"wgpu",
 			"winit"
 		]
